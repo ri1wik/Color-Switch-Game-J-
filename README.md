@@ -1,11 +1,10 @@
 # Color-Switch-Game-J-
 Web Live Demo: https://ritwik-color-ball-switch.netlify.app/
+
 Rules and Functions
  1. Multiplayer Modes ( Press W ) for Player 1, (Press Arrow Up, keyword ) for Player 2
  2. Press the mouse or keyword button and start progressing when the obstacle and ball is of same color to get going in-game.
- 3. Background music is added for better experience  
-
-Description
+ 3. Background music is added for a better experience  
 Introduction 
 Behold the enchanting marvel known as Color Switch, an entrancing platforming game, birthed from the ingenious mind of David Reichelt. In its genesis, the inaugural version of this gaming opus graced the world under the aegis of Fortafy Games, who masterfully kindled its promotion. However, as time unfurled its tapestry, a newer iteration emerged, now flourishing as an independent publication.
 
